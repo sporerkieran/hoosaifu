@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohgahxo.telsocket.org/sitemap.xml
